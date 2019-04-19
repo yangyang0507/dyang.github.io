@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dyang.top/"/>
-  <updated>2019-04-19T07:55:58.913Z</updated>
+  <updated>2019-04-19T08:04:08.516Z</updated>
   <id>http://dyang.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://dyang.top/2016/01/14/idea-keymap/"/>
     <id>http://dyang.top/2016/01/14/idea-keymap/</id>
     <published>2016-01-14T08:36:44.000Z</published>
-    <updated>2019-04-19T07:55:58.913Z</updated>
+    <updated>2019-04-19T08:04:08.516Z</updated>
     
     <content type="html"><![CDATA[<p>IntelliJ IDEA是JetBrains公司开发的一款IDE工具，是公认的最好的Java开发工具之一，使用IDEA能有效提高开发效率，熟悉一些常用的快捷键会给开发带来很多便捷。本文整理了IDEA的快捷键，并辅以说明，以便自己或他人查用。 </p><a id="more"></a><blockquote><p>Mac修饰键符号说明：</p><ul><li><code>⌘</code> Command</li><li><code>⌃</code> Control</li><li><code>⌥</code> Option</li><li><code>⇧</code> Shift</li><li><code>↩</code>︎ Enter</li><li><code>⌫</code> Delete</li><li><code>⇥</code> Tab</li><li><code>⇪</code> CapsLock</li><li><code>↑</code> 上箭头</li><li><code>↓</code> 下箭头</li><li><code>←</code> 左箭头</li><li><code>→</code> 右箭头</li><li><code>Space</code> 空格</li></ul></blockquote><hr><h2 id="编辑相关快捷键（Editing）"><a href="#编辑相关快捷键（Editing）" class="headerlink" title="编辑相关快捷键（Editing）"></a>编辑相关快捷键（Editing）</h2><ul><li><code>Control + Space</code> 基本语法提示</li><li><code>Control + Shift + Space</code> 智能语法提示</li><li><code>Command + Shift + Enter︎</code> 自动完成结构体，比如输入一个<code>if</code>，按下此快捷键可以补全结构。</li><li><code>Command + P</code>：参数提示，比如我需要看某个函数的参数，按这个快捷键就可以看到。</li><li><code>Control + J</code>：快速查看某个方法的文档</li><li><code>Command + N</code>：快速生成代码(Getters，Setters，Constructors，hashCode/equals，toString)</li><li><code>Control + O</code>：重写方法(Override)</li><li><code>Control + I</code>：实现方法(Implement)</li><li><code>Command + Option + T</code>：在代码周围添加代码(if..else, try..catch, for, synchronized, ……)，比如一段代码需要捕捉异常，选中这段代码，按下此快捷键，可以快速在其周围添加诸如try..catch等代码</li><li><code>Command + /</code>：快捷单行注释</li><li><code>Command + Option + /</code>：快捷块注释(多行注释)</li><li><code>Option + ↑</code> 和 <code>Option + ↓</code>：快速选择代码块，不好描述，自行测试，挺有用。</li><li><code>Option + Enter︎</code>：修正代码建议（非常有用，能够快速修正代码）</li><li><code>Command + Option + L</code>：代码格式化</li><li><code>Control + Option + O</code>：自动分析import语句（删除多余的，补全缺少的）</li></ul><p>未完持续……</p>]]></content>
     
