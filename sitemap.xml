@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://dyang.top/2016/01/14/idea-keymap/</loc>
-    
-    <lastmod>2020-06-24T11:12:56.871Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://dyang.top/2019/11/15/use-minikube-install-k8s-on-ubuntu18-04/</loc>
-    
-    <lastmod>2020-06-24T11:12:56.871Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://dyang.top/about/index.html</loc>
-    
-    <lastmod>2020-06-24T11:12:56.871Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://dyang.top/categories/index.html</loc>
     
-    <lastmod>2020-06-24T11:12:56.871Z</lastmod>
+    <lastmod>2020-07-16T23:04:24.352Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://dyang.top/tags/index.html</loc>
     
-    <lastmod>2020-06-24T11:12:56.871Z</lastmod>
+    <lastmod>2020-07-16T23:04:24.352Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/2016/01/14/idea-keymap/</loc>
+    
+    <lastmod>2020-07-16T23:04:24.348Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/2019/11/15/use-minikube-install-k8s-on-ubuntu18-04/</loc>
+    
+    <lastmod>2020-07-16T23:04:24.348Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/about/index.html</loc>
+    
+    <lastmod>2020-07-16T23:04:24.348Z</lastmod>
     
   </url>
   
