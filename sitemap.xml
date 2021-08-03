@@ -2,38 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://dyang.top/categories/index.html</loc>
+    <loc>http://dyang.top/2019/11/15/use-minikube-install-k8s-on-ubuntu18-04/</loc>
     
-    <lastmod>2020-07-16T23:04:24.352Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://dyang.top/tags/index.html</loc>
-    
-    <lastmod>2020-07-16T23:04:24.352Z</lastmod>
+    <lastmod>2019-11-15</lastmod>
     
   </url>
   
   <url>
     <loc>http://dyang.top/2016/01/14/idea-keymap/</loc>
     
-    <lastmod>2020-07-16T23:04:24.348Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://dyang.top/2019/11/15/use-minikube-install-k8s-on-ubuntu18-04/</loc>
-    
-    <lastmod>2020-07-16T23:04:24.348Z</lastmod>
+    <lastmod>2016-01-14</lastmod>
     
   </url>
   
   <url>
     <loc>http://dyang.top/about/index.html</loc>
     
-    <lastmod>2020-07-16T23:04:24.348Z</lastmod>
+    <lastmod>2015-12-08</lastmod>
     
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/categories/index.html</loc>
+    
+    <lastmod>2015-12-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/tags/index.html</loc>
+    
+    <lastmod>2015-12-08</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://dyang.top/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://dyang.top/tags/JetBrains/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/tags/IDEA/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/tags/Kubernetes/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/tags/K8S/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/tags/minikube/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/tags/ubuntu/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://dyang.top/categories/JetBrains%E7%B3%BB%E5%88%97IDE%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dyang.top/categories/Kubernetes/</loc>
+    <lastmod>2021-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   
 </urlset>
